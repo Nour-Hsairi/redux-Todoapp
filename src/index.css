@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(241, 205, 158) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  font-family: cursive !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.btn-primary {
+  background-color:#f3c68c !important;
+  border: none !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.text-center{
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.btns{
+  text-align: center;
+  margin-bottom: 20px;
+}
